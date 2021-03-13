@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "..\\415-5-demo"
+		},
+		{
+			"path": "..\\eleventy-project"
+		},
+		{
+			"path": "..\\11ty-testSite"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "eleventy-project"
+	}
+}

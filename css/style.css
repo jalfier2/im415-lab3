@@ -1,0 +1,40 @@
+body {
+    font-family: sans-serif;
+}
+nav ul {
+    list-style: none;
+}
+nav ul li a {
+    text-decoration: none; 
+    color: green; 
+}
+nav ul li a:link {
+    color: green; 
+}
+nav ul li a:visited {
+    color:red; 
+}
+nav ul li a:hover {
+    color:salmon; 
+}
+nav ul li a:active {
+    color: black; 
+}
+p {
+    padding: 1em; 
+}
+h1 {
+    text-align: center;
+}
+ th {
+    padding: 1em; 
+}
+table {
+    margin-left: auto; 
+    margin-right: auto; 
+}
+.comment {
+    font-size: 0.5em; 
+    padding-top: 10em;
+    color: #acacac; 
+}
