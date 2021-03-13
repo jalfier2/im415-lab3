@@ -38,3 +38,10 @@ table {
     padding-top: 10em;
     color: #acacac; 
 }
+.albums {
+    text-align: center; 
+}
+.albums ul li {
+    padding-top: 1em; 
+    list-style: none;
+}
