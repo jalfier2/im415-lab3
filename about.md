@@ -4,7 +4,7 @@ title: About One Direction
 tags: page
 ---
 # {{ title }}
-One Direction, often shortened to 1D, are an English-Irish pop boy band formed in London, England in 2010. The group are composed of Niall Horan, Liam Payne, Harry Styles and Louis Tomlinson; former member Zayn Malik departed from the group in March 2015. The group signed with Simon Cowell's record label Syco Records after forming and finishing third in the seventh series of the British televised singing competition The X Factor in 2010. - test
+One Direction, often shortened to 1D, are an English-Irish pop boy band formed in London, England in 2010. The group are composed of Niall Horan, Liam Payne, Harry Styles and Louis Tomlinson; former member Zayn Malik departed from the group in March 2015. The group signed with Simon Cowell's record label Syco Records after forming and finishing third in the seventh series of the British televised singing competition The X Factor in 2010. 
 
 Propelled to global success by social media, One Direction's five albums, Up All Night (2011), Take Me Home (2012), Midnight Memories (2013), Four (2014), and Made in the A.M. (2015), topped charts in most major markets, and generated hit singles including "What Makes You Beautiful" (their first number one on the UK Singles Chart, and the highest debut for a British act on the US Billboard Hot 100 since 1998), "Live While We're Young", "Best Song Ever", "Story of My Life" and "Drag Me Down". After the release of Four, One Direction became the first band in the US Billboard 200 history to have their first four albums debut at number one. Their third album, Midnight Memories, was the best-selling album worldwide of 2013.
 
